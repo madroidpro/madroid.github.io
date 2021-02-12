@@ -18,12 +18,12 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
+ - Android
+ - Kotlin
+ - REST
  - Microservices
  - Spring Boot
  - Java
- - REST
- - Android
- - Kotlin
 
 
 #Work experience is required
@@ -60,10 +60,9 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+   profileurl: https://stackoverflow.com/users/3106273/madroid
+   flairimageurl: https://stackoverflow.com/users/flair/3106273.png
 
 intro: |
   I am an engineer with 8 years experience working in technology. I have  have worked across a broad range of technologies thereon: Java, Kotlin, Android, As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, React. <br/><br/>
   I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code <br/><br/>
-
