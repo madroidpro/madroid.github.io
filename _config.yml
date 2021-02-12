@@ -27,14 +27,23 @@ roles:
    end: Ongoing
    employer: Robert Bosch Engineering and Innovation
    description: I am a senior engineer working across the full-stack, I am involved in all aspects of the technology including the Mobile app (Android) development and back-end services.
- 
+ - title: Software Developer
+   start: 2015
+   end: 2017
+   employer: Infovita Technologies pvt ltd
+   description: Infovita Technologies was a startup mainly working on medical software domain, I was involved in all aspects of the technology including the Mobile app (Android) development and back-end services aswell as managing a team of six.
+- title: Software Developer
+   start: 2013
+   end: 2015
+   employer: Nervecentrex Softwares
+   description: I was involved in developing Mobile app (Android) development.
 
 #Education is required
 education:
  - level: Bachelor of Engineering (B.E)
    date: 2013
    subject: Computer Science and Engineering
-   University:Vishveshwarayya Technological University (VTU)
+   school: Vishveshwarayya Technological University (VTU)
 
 
 #List of interesting Github repo/projects to include - optional
